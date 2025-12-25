@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Было yellow → стало blue -->
+    <color name="primary">#1E88E5</color>         <!-- primary (blue 600-ish) -->
+    <color name="primary_dark">#0D3B71</color>    <!-- darker -->
+    <color name="primary_light">#42A5F5</color>   <!-- lighter -->
+
+    <color name="light">#BBDEFB</color>           <!-- light surface -->
+    <color name="background">#E3F2FD</color>      <!-- background -->
+
+    <color name="accent_amber">#2962FF</color>           <!-- accent (bright blue) -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

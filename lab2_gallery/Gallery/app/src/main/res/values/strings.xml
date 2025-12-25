@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фотогалерея</string>
+    <string name="no_photos">Галерея порожня</string>
+    <string name="update_available">Доступне оновлення</string>
+    <string name="downloading">Завантаження…</string>
+    <string name="download_scheduled">Завантаження заплановане</string>
+    <string name="update_button">ОНОВИТИ</string>
+</resources>
