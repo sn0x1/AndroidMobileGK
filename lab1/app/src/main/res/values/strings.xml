@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab1_Converter</string>
+
+    <string-array name="units_length">
+        <item>Сантиметр</item>
+        <item>Метр</item>
+        <item>Кілометр</item>
+        <item>Дюйм</item>
+        <item>Миля</item>
+        <item>Ярд</item>
+        <item>Фут</item>
+    </string-array>
+
+    <string-array name="units_weight">
+        <item>Грам</item>
+        <item>Кілограм</item>
+        <item>Тонна</item>
+        <item>Карат</item>
+        <item>Фунт</item>
+        <item>Пуд</item>
+    </string-array>
+
+    <string-array name="units_temperature">
+        <item>Кельвін</item>
+        <item>Цельсій</item>
+        <item>Фаренгейт</item>
+    </string-array>
+</resources>
